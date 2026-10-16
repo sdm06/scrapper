@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+
+# Environment / secrets
+.env
+.env.*
+
+# Logs and OS files
+*.log
+.DS_Store
+
+# NOTE: output/product.json is intentionally tracked as the sample output.
